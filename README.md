@@ -1,4 +1,5 @@
-<img src="https://github.com/lacrivella/lacrivella/blob/master/mountain.png" alt="mountain in cyan" width="250"/>
+<p align="center">
+<img src="https://github.com/lacrivella/lacrivella/blob/master/mountain.png" alt="mountain in cyan" width="350"/>
 
 ### Hello World 🌎
 
@@ -11,3 +12,4 @@ My name is Leigh-Ann (she/her), and I'm a full-stack software developer living i
 - Databases: Firebase, Mongoose/MongoDB, MySQL, PostgreSQL
 - Tools: Heroku, Netlify, Compass, Postman
 - Dev Practices: TDD w/ Jest, Pair Programming, Responsive Design
+</p>
