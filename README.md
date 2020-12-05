@@ -1,7 +1,7 @@
 <p align="center">
-<img src="https://github.com/lacrivella/lacrivella/blob/master/mountain.png" alt="mountain in cyan" width="350"/>
+<img src="https://github.com/lacrivella/lacrivella/blob/master/mountain.png" alt="mountain in cyan" width="275"/>
 
-### Hello World 🌎
+### 🌎 Hello World
 
 My name is Leigh-Ann (she/her), and I'm a full-stack software developer living in the beautiful PNW. Let's collab!
 
