@@ -1,4 +1,4 @@
-
+<img src="https://github.com/lacrivella/lacrivella/blob/master/mountain.png" alt="mountain in cyan" width="250"/>
 
 ### Hello World 🌎
 
