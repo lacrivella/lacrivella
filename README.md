@@ -1,4 +1,4 @@
-<img src="https://github.com/lacrivella/lacrivella/mountain.png" alt="mountain drawing"/>
+<img src="https://github.com/lacrivella/lacrivella/mountain.png" alt="mountain drawing" width="100" />
 
 ### Hello World 🌎
 
